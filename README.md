@@ -2,58 +2,60 @@
 
 > This document serves as a general template for creating an Intensive Co-learning – English version. Please follow the template structure to fill in your Intensive Co-learning content and replace the {} placeholders with the appropriate information.
 
-# {Your Intensive Co-learning Name} <img alt="logo" height="80px" width="80px" src="{Intensive Co-learning Name logo image URL，remove if not applicable}" />
+# test1 <img alt="logo" height="80px" width="80px" src="{Intensive Co-learning Name logo image URL，remove if not applicable}" />
 
 ## Introduction
 
-{Introduction to the Intensive Co-learning}
+Non-technical background,beginner-friendly,Web3,Blockchain
 
 ## Keywords
 
-{Keywords or tags related to the Intensive Co-learning to help participants quickly search and locate it, such as DeFi, DAO, English, etc. Please use English word and separate them with commas (,)}
+Non-technical background,beginner-friendly,Web3,Blockchain
 
 ## Target Audience
 
-{The primary audience for this Intensive Co-learning. For example, if it is specifically for programmers, those without relevant skills and experience may not need to participate.}
+The primary audience for this Intensive Co-learning. For example, if it is specifically for programmers, those without relevant skills and experience may not need to participate.
 
 ## Registration Period
 
-- Start Date: {Registration start date, format: yyyy-mm-dd, e.g., 2025-11-01}
-- End Date: {Registration end date, format: yyyy-mm-dd, e.g., 2025-11-01}
+- Start Date: 2025-10-01
+- End Date: 2025-11-01
 
 ## Study Duration
 
-- Start Date: {Official start date of the Intensive Co-learning, format: yyyy-mm-dd, e.g., 2025-11-01}
-- End Date: {Official end date of the Intensive Co-learning, format: yyyy-mm-dd, e.g., 2025-11-01}
+- Start Date: 2025-11-01
+- End Date: 2025-12-01
 
 ## Initiator
 
-- Name: {Intensive Co-learning initiator's name}
-- GitHub ID: {Intensive Co-learning initiator's GitHub ID}
-- Telegram: {Intensive Co-learning initiator's Telegram ID}
-- Email: {Intensive Co-learning initiator's email}
+- 姓名：古忆
+- GitHub ID：StellaWang5209
+- Telegram：stella707827
+- Email：luna164400@gmail.com
 
 ## Organizations
 
-- {The organizing entities of the Intensive Co-learning. There can be multiple. Please fill in the organization name, link, and logo as shown below.}
-  [LXDAO](https://lxdao.io/) <img alt="organization-logo" height="60px" width="60px" src="https://avatars.githubusercontent.com/u/167147327?s=200&v=4" />
+- [LXDAO](https://lxdao.io/) <img alt="organization-logo" height="60px" width="60px" src="https://cdn.lxdao.io/bafkreiay6vxsvv3ksxr75lzzt3iqy3zja3o2epuxh47ivs24p2xs3awexm.png" />
+
 
 ## Leave Rules
 
-Allowed {Number of times leave} days leave per week.
+Allowed 2 days leave per week.
 
 ## Community
 
-Telegram：{Intensive Co-learning Telegram channel link for discussions}
+Telegram：https://t.me/LXDAO/21734
 
 ## Learning Materials / Course Schedule
 
-{This section should be written in Markdown format. Learning materials must be provided. If there are live lessons by mentors, include the course schedule and mentor information.}
+**第一周：Web3 基础概念（摧毁 Web2 思维钢印）**
+
+Web3 是什么 [web3-general-manual/chapter1/1.1-what_is_web3.md at main · lxdao-official/web3-general-manual · GitHub ](https://github.com/lxdao-official/web3-general-manual/blob/main/chapter1/1.1-what_is_web3.md)
 
 ## Study Rewards
 
-{This section should be written in Markdown format. Rewards are optional. If there are no specific rewards, you can either leave this blank or write some motivational words.}
-{The following are existing Intensive Co-learning benefits, which are recommended to be retained:}
+100LXPU，由完成本次残酷共学的小伙伴平分；
+共居福利：https://lxdao.notion.site/from-3eab258b4df44c9cb97319452b2be13bv
 Rewards for successful check-ins：https://www.notion.so/lxdao/3eab258b4df44c9cb97319452b2be13b
 
 ## Additional Information
