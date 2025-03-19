@@ -2,7 +2,7 @@
 
 > This document serves as a general template for creating an Intensive Co-learning – English version. Please follow the template structure to fill in your Intensive Co-learning content and replace the {} placeholders with the appropriate information.
 
-# test1 <img alt="logo" height="80px" width="80px" src="{Intensive Co-learning Name logo image URL，remove if not applicable}" />
+# test1 <img alt="logo" height="80px" width="80px" src="http://www.baidu.com" />
 
 ## Introduction
 
@@ -28,7 +28,7 @@ The primary audience for this Intensive Co-learning. For example, if it is speci
 
 ## Initiator
 
-- 姓名：古忆
+- Name：古忆
 - GitHub ID：StellaWang5209
 - Telegram：stella707827
 - Email：luna164400@gmail.com
@@ -91,61 +91,38 @@ Since the registration and check-in for Intensive Co-Learning are conducted via 
 ✅ = Done ⭕️ = Missed ❌ = Failed
 
 <!-- START_COMMIT_TABLE -->
-
-| Name | 6.24 | 6.25 | 6.26 | 6.27 | 6.28 | 6.29 | 6.30 | 7.01 | 7.02 | 7.03 | 7.04 | 7.05 | 7.06 | 7.07 | 7.08 | 7.09 | 7.10 | 7.11 | 7.12 | 7.13 | 7.14 |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-
+| Name | 3.10 | 3.11 | 3.12 | 3.13 | 3.14 | 3.15 | 3.16 | 3.17 | 3.18 | 3.19 | 3.20 | 3.21 | 3.22 | 3.23 | 3.24 | 3.25 | 3.26 | 3.27 | 3.28 | 3.29 | 3.30 | 3.31 | 4.01 | 4.02 | 4.03 | 4.04 | 4.05 | 4.06 | 4.07 | 4.08 | 4.09 | 4.10 | 4.11 | 4.12 | 4.13 | 4.14 | 4.15 | 4.16 | 4.17 | 4.18 | 4.19 | 4.20 |
+| ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| [klora-sun](https://github.com/IntensiveCoLearning/Ethereum-Protocol-Fellowship-3/blob/main/klora-sun.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ⭕️ |   | | | | | | | | | | | | | |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | | |
+| [Chloezhu010](https://github.com/IntensiveCoLearning/Ethereum-Protocol-Fellowship-3/blob/main/Chloezhu010.md) | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ |   | | | | | | | | | | | | | |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | | |
+| [zhouCode](https://github.com/IntensiveCoLearning/Ethereum-Protocol-Fellowship-3/blob/main/zhouCode.md) | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ✅ |   | | | | | | | | | | | | | |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | | |
+| [po](https://github.com/IntensiveCoLearning/Ethereum-Protocol-Fellowship-3/blob/main/po.md) | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [brucexu-eth](https://github.com/IntensiveCoLearning/Ethereum-Protocol-Fellowship-3/blob/main/brucexu-eth.md) | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | | | | | | | | | | | | | |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | | |
+| [looooloooo](https://github.com/IntensiveCoLearning/Ethereum-Protocol-Fellowship-3/blob/main/looooloooo.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [rayjun](https://github.com/IntensiveCoLearning/Ethereum-Protocol-Fellowship-3/blob/main/rayjun.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | | | | | | | | | | | | | |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | | |
+| [billchen-818](https://github.com/IntensiveCoLearning/Ethereum-Protocol-Fellowship-3/blob/main/billchen-818.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [wsjtadk](https://github.com/IntensiveCoLearning/Ethereum-Protocol-Fellowship-3/blob/main/wsjtadk.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [dexhunter](https://github.com/IntensiveCoLearning/Ethereum-Protocol-Fellowship-3/blob/main/dexhunter.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | | |
+| [yihaowang](https://github.com/IntensiveCoLearning/Ethereum-Protocol-Fellowship-3/blob/main/yihaowang.md) | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | | |
+| [praxis](https://github.com/IntensiveCoLearning/Ethereum-Protocol-Fellowship-3/blob/main/praxis.md) | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [ricky5932TW](https://github.com/IntensiveCoLearning/Ethereum-Protocol-Fellowship-3/blob/main/ricky5932TW.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | | |
+| [rockyfang](https://github.com/IntensiveCoLearning/Ethereum-Protocol-Fellowship-3/blob/main/rockyfang.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | | |
+| [sunkehappy](https://github.com/IntensiveCoLearning/Ethereum-Protocol-Fellowship-3/blob/main/sunkehappy.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ⭕️ |   | | | | | | | | | | | | | |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | | |
+| [Amber](https://github.com/IntensiveCoLearning/Ethereum-Protocol-Fellowship-3/blob/main/Amber.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [easyshellworld](https://github.com/IntensiveCoLearning/Ethereum-Protocol-Fellowship-3/blob/main/easyshellworld.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | | | | | | | | | | | | | |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | | |
+| [henryleo](https://github.com/IntensiveCoLearning/Ethereum-Protocol-Fellowship-3/blob/main/henryleo.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | | | | | | | | | | | | | |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | | |
+| [k66](https://github.com/IntensiveCoLearning/Ethereum-Protocol-Fellowship-3/blob/main/k66.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | | |
+| [shengxj1](https://github.com/IntensiveCoLearning/Ethereum-Protocol-Fellowship-3/blob/main/shengxj1.md) | ⭕️ | ⭕️ | ✅ | ❌ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [cxc474](https://github.com/IntensiveCoLearning/Ethereum-Protocol-Fellowship-3/blob/main/cxc474.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | | |
 <!-- END_COMMIT_TABLE -->
 
-<!-- STATISTICALDATA_START -->
-<!-- STATISTICALDATA_END -->
+ 
+## Statistics
 
-> If you are the initiator of this intensive co-learning program, please follow the steps below to set up the automated permission granting. Once completed, remove this section from your repository.
-
-### Create a Personal Access Token with Invitation Permissions for Your [Intensive Co-Learning]
-
-To create a personal access token with collaborator invitation permissions, please follow these steps:
-
-1. Navigate to your personal settings: go to https://github.com/settings/profile and log in to your GitHub account.
-
-2. Access the Personal Access Tokens page: in the left menu, click on "Developer settings", then select "Personal access tokens".
-
-3. Create a new token: click the "Generate new token" button and choose the Classic token option.
-
-4. Name your token: in the Token name field, enter a descriptive name, for example invite-collaborators.
-
-5. Select the appropriate scopes: in the "Scopes" section, choose the permissions needed for your token. For inviting collaborators, you need to grant the following scope:
-
-- `repo:invite`: Allows your token to create repository invitations. It is recommended to grant this token full repo permissions.
-- Only users with `admin:org` privileges can create personal access tokens with collaborator invitation permissions.
-
-6. Add the token value to your repository secrets: follow the above steps to add your personal access token to your repository's secrets, and name it `PAT_WITH_INVITE_PERMISSIONS`.
-
-![image](https://github.com/user-attachments/assets/8aebaf92-af33-4103-8f71-ae1b90e25004)
-![image](https://github.com/user-attachments/assets/8d1eee42-1b28-4e02-8da6-9ec058a87f0d)
-
-
-### Configure Co-learning Information Configuration Variables
-
-- Configure these two repository variables (Repository variables). Make sure not to add any line breaks or spaces.
-
-| Field Name | Value                     | Comments   |
-| ---------- | ------------------------- | ---------- |
-| START_DATE | 2025-06-24T00:00:00+00:00 | Start time |
-| END_DATE   | 2025-07-06T23:59:59+00:00 | End time   |
-
-![image](https://github.com/user-attachments/assets/a031eac8-747c-435a-b69c-502cf2e91f12)
+- Total Participants: 45
+- Completed Participants: 13
+- Completed Users: zedz, luffythink, ziicu2019, jjeejj, nishuzumi, PINKPIG
+- Perfect Attendance Users: zedz, luffythink, jjeejj, nishuzumi, CHENFANGC, punkcanyang
+- Failed Participants: 43
+- Failed Rate: 76.79%
+- Fork Count: 72
